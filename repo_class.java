@@ -20,6 +20,7 @@ public class repo_class {
 
 
         System.out.println("prueba 1");
+        System.out.println("prueba 2");
     }
     
 }
