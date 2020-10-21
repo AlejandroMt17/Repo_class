@@ -21,3 +21,8 @@ Imagen
 |nombre|apellido|
 |------|------|
 |Alejandro|Toris|
+## citas
+>esto es una cita 
+texto  normal
+
+>esto es otra cita
