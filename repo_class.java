@@ -24,6 +24,9 @@ public class repo_class {
         
         System.out.println("prueba num 4");
         System.out.println("prueba num 5");
+
+         System.out.println("prueba del release");
+
     }
     
 }
